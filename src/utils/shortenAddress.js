@@ -1,1 +1,1 @@
-export const shortenAddress = (address) => `${address.slice(0, 5)}...${address.slice(address.length - 9)}`;
+export const shortenAddress = (address) => `${address.slice(0, 5)}...${(address.slice(address.length - 11)).slice(0,4)}`;

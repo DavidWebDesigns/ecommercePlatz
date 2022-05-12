@@ -8,7 +8,7 @@ const Login = () => {
 		event.preventDefault(); //prevent use of url to send elements of sign up
 		const formData = new FormData(form.current);
 		const data = {
-			usename: formData.get("email"),
+			usename: formData.get("email"), //calls the name prop on the inputs
 			password: formData.get("password")
 
 		}
