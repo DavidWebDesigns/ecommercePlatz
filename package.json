@@ -2,6 +2,7 @@
   "name": "ecommerceplatz",
   "version": "1.0.0",
   "description": "react eshop",
+  "homepage": "https://davidwebdesigns.github.io/ecommercePlatz/",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
