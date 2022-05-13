@@ -12,7 +12,7 @@ const MyOrder = () => {
 		const sum = state.cart.reduce(reducer, 0);
 		return sum;
 	}
-	
+
 	return (
 		<aside className="MyOrder">
 			<div className="title-container">
