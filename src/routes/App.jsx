@@ -22,7 +22,7 @@ const App = () => {
 	const initialState = useInitialState();
   return (
 	<AppContext.Provider value={initialState}>
-    <Router basename='/ecommerceplatz'>
+    <Router>
         <Layout>
 				<Routes>
 					<Route exact path="/" element={<Home />} />
