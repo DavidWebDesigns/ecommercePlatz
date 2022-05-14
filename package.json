@@ -2,7 +2,7 @@
   "name": "ecommerceplatz",
   "version": "1.0.0",
   "description": "react eshop",
-  "homepage": "https://davidwebdesigns.github.io/ecommercePlatz/",
+  "homepage": "https://davidwebdesigns.github.io/ecommercePlatz",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -36,7 +36,6 @@
   },
   "devDependencies": {
     "css-loader": "^6.7.1",
-    "gh-pages": "^4.0.0",
     "mini-css-extract-plugin": "^2.6.0",
     "sass": "^1.51.0",
     "sass-loader": "^12.6.0",
